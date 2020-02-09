@@ -1,0 +1,28 @@
+{
+  "inputList": [
+    {
+      "placeholder": "ejem: Ivan",
+      "type": "text",
+      "name": "Name Text",
+      "label": "Nombre",
+      "checked": true,
+      "id": 1
+    },
+    {
+      "placeholder": "ejem: 38",
+      "type": "number",
+      "name": "Name Text",
+      "label": "Edad",
+      "checked": true,
+      "id": 2
+    },
+    {
+      "placeholder": "ejem: Trejo Chis",
+      "type": "text",
+      "name": "Name Text",
+      "label": "Apellidos",
+      "checked": true,
+      "id": 3
+    }
+  ]
+}
